@@ -1,0 +1,11 @@
+micro_runtime
+*.out
+
+*.o
+
+build/
+dist/
+
+.vscode/
+
+core
